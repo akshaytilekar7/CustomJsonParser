@@ -1,0 +1,6 @@
+E:\Study\Git-Hub\CustomJsonParser\Test\CustomJsonParser\bin\Debug\CustomJsonParser.dll
+E:\Study\Git-Hub\CustomJsonParser\Test\CustomJsonParser\bin\Debug\CustomJsonParser.pdb
+E:\Study\Git-Hub\CustomJsonParser\Test\CustomJsonParser\obj\Debug\CustomJsonParser.csproj.CoreCompileInputs.cache
+E:\Study\Git-Hub\CustomJsonParser\Test\CustomJsonParser\obj\Debug\CustomJsonParser.dll
+E:\Study\Git-Hub\CustomJsonParser\Test\CustomJsonParser\obj\Debug\CustomJsonParser.pdb
+E:\Study\Git-Hub\CustomJsonParser\Test\CustomJsonParser\obj\Debug\CustomJsonParser.csprojResolveAssemblyReference.cache
